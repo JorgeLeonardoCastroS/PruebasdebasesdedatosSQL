@@ -1,4 +1,4 @@
-<img width="519" height="798" alt="image" src="https://github.com/user-attachments/assets/609466e5-adb6-4fe4-9bf1-1b4e7261c1dc" /># Pruebas de bases de datos SQL
+# Pruebas de bases de datos SQL
 Pruebas de aplicación de transporte mediante la verificación de tablas de datos | Bootcamp Tripleten (2026) 
 • Descripción: verificación de bases de datos mediante la terminal para comprobar las tablas que se encuentran dentro de la base de datos, para obtener los datos necesarios para verificación de las mismas. • Objetivo: Realizar uso de SQL mediante la terminal para realizar las consultas en las tablas de las bases de datos. • Habilidades destacadas: Uso de SQL para la revisión de las bases de datos. • Herramientas: SQL, Terminal de Cywin64. • Hallazgos: Se realizaron las consultas y se generaron tablas de relación conforme con las diferentes tablas que se encontraban en la base de datos. • Resultado: Se realizo la verificación de la base de datos, se manejaron más de 5 tablas y se encontraron los datos requeridos para el proyecto, se aprendieron los comandos necesarios para poder revisar las bases de datos y hacer uso de las herramientas
 
